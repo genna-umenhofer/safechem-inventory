@@ -1,0 +1,1 @@
+# safechem-inventory
