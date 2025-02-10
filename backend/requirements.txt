@@ -1,0 +1,4 @@
+fastapi
+uvicon
+psycopg2-binary
+sqalchemy
